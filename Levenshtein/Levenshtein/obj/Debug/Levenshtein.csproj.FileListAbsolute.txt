@@ -1,0 +1,7 @@
+C:\Users\anovikov\Desktop\Drop\C#\isbn\levenshtain\Levenshtein\Levenshtein\bin\Debug\Levenshtein.exe.config
+C:\Users\anovikov\Desktop\Drop\C#\isbn\levenshtain\Levenshtein\Levenshtein\bin\Debug\Levenshtein.exe
+C:\Users\anovikov\Desktop\Drop\C#\isbn\levenshtain\Levenshtein\Levenshtein\bin\Debug\Levenshtein.pdb
+C:\Users\anovikov\Desktop\Drop\C#\isbn\levenshtain\Levenshtein\Levenshtein\obj\Debug\Levenshtein.csprojAssemblyReference.cache
+C:\Users\anovikov\Desktop\Drop\C#\isbn\levenshtain\Levenshtein\Levenshtein\obj\Debug\Levenshtein.csproj.CoreCompileInputs.cache
+C:\Users\anovikov\Desktop\Drop\C#\isbn\levenshtain\Levenshtein\Levenshtein\obj\Debug\Levenshtein.exe
+C:\Users\anovikov\Desktop\Drop\C#\isbn\levenshtain\Levenshtein\Levenshtein\obj\Debug\Levenshtein.pdb
